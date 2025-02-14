@@ -5,6 +5,10 @@
 
 A genetic algorithm simulation studying trade-offs between bacterial growth rates and lag phases under fluctuating resource conditions. Inspired by Lenski's long-term evolution experiment.
 
+Created for a class at the University of Idaho
+
+My partners for this project: Matthew Kinahan, Mohammad Abbaspour
+
 ## 📌 Overview
 
 This project implements:
