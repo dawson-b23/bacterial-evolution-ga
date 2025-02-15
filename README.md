@@ -80,7 +80,7 @@ bacterial-evolution-ga/
 ## 📊 Key Results
 
 Experimental Findings:
-![Alt text](average_fitness_across_experiments..png)
+![Alt text](average_fitness_across_experiments.png)
 
 1. Optimal mutation rate: 0.075 (balances exploration/exploitation)
 
