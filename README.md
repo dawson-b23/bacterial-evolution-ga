@@ -48,6 +48,7 @@ python3 finalcode_project1.py
 ```
 
 ### Expected Output:
+```text
 experiment_1/
 ├── mutation_0.1/
 │   ├── fitness_progression.png
@@ -56,8 +57,10 @@ experiment_1/
 │   ├── ...
 ...
 average_fitness_across_experiments.png
+```
 
 ## 📂 File Structure
+```text
 bacterial-evolution-ga/
 ├── experiments/                   # Auto-generated results
 │   ├── experiment_1/              # First experimental run
@@ -72,29 +75,30 @@ bacterial-evolution-ga/
 ├── average_fitness_across_experiments.png  # Combined results
 ├── README.md
 └── requirements.txt
+```
 
 ## 📊 Key Results
 
 Experimental Findings:
 
-    Optimal mutation rate: 0.075 (balances exploration/exploitation)
+1. Optimal mutation rate: 0.075 (balances exploration/exploitation)
 
-    122% growth rate increase over 25 generations
+2. 122% growth rate increase over 25 generations
 
-    31% lag phase reduction despite enforced trade-off
+3. 31% lag phase reduction despite enforced trade-off
 
-    High mutation (>0.05) populations show 2.1× faster early adaptation
+4. High mutation (>0.05) populations show 2.1× faster early adaptation
 
 ## 🤝 Contributing
-    Fork the repository
+1. Fork the repository
 
-    Create feature branch (git checkout -b feature/yourfeature)
+2. Create feature branch (git checkout -b feature/yourfeature)
 
-    Commit changes (git commit -am 'Add some feature')
+3. Commit changes (git commit -am 'Add some feature')
 
-    Push to branch (git push origin feature/yourfeature)
+4. Push to branch (git push origin feature/yourfeature)
 
-    Open Pull Request
+5. Open Pull Request
 
 ## 📜 License
 
@@ -102,6 +106,6 @@ MIT License - see LICENSE for details
 
 ## 📚 References
 
-    Lenski, R. E., & Travisano, M. (1994). Dynamics of adaptation and diversification. PNAS, 91(15), 6808-6814.
+- Lenski, R. E., & Travisano, M. (1994). Dynamics of adaptation and diversification. PNAS, 91(15), 6808-6814.
 
-    Monod, J. (1949). The growth of bacterial cultures. Annual Reviews of Microbiology, 3(1), 371-394.
+- Monod, J. (1949). The growth of bacterial cultures. Annual Reviews of Microbiology, 3(1), 371-394.
